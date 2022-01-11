@@ -1,0 +1,15 @@
+C:\Users\melan\OneDrive\Desktop\ProyectoU6_TallerBD\ProyectoU6_TallerBD\bin\Debug\ProyectoU6_TallerBD.exe.config
+C:\Users\melan\OneDrive\Desktop\ProyectoU6_TallerBD\ProyectoU6_TallerBD\bin\Debug\ProyectoU6_TallerBD.exe
+C:\Users\melan\OneDrive\Desktop\ProyectoU6_TallerBD\ProyectoU6_TallerBD\bin\Debug\ProyectoU6_TallerBD.pdb
+C:\Users\melan\OneDrive\Desktop\ProyectoU6_TallerBD\ProyectoU6_TallerBD\obj\Debug\ProyectoU6_TallerBD.csproj.AssemblyReference.cache
+C:\Users\melan\OneDrive\Desktop\ProyectoU6_TallerBD\ProyectoU6_TallerBD\obj\Debug\ProyectoU6_TallerBD.csproj.SuggestedBindingRedirects.cache
+C:\Users\melan\OneDrive\Desktop\ProyectoU6_TallerBD\ProyectoU6_TallerBD\obj\Debug\ProyectoU6_TallerBD.Empleado.Empleado.resources
+C:\Users\melan\OneDrive\Desktop\ProyectoU6_TallerBD\ProyectoU6_TallerBD\obj\Debug\ProyectoU6_TallerBD.Form1.resources
+C:\Users\melan\OneDrive\Desktop\ProyectoU6_TallerBD\ProyectoU6_TallerBD\obj\Debug\ProyectoU6_TallerBD.Producto.Producto.resources
+C:\Users\melan\OneDrive\Desktop\ProyectoU6_TallerBD\ProyectoU6_TallerBD\obj\Debug\ProyectoU6_TallerBD.Properties.Resources.resources
+C:\Users\melan\OneDrive\Desktop\ProyectoU6_TallerBD\ProyectoU6_TallerBD\obj\Debug\ProyectoU6_TallerBD.Proveedor.Proveedor.resources
+C:\Users\melan\OneDrive\Desktop\ProyectoU6_TallerBD\ProyectoU6_TallerBD\obj\Debug\ProyectoU6_TallerBD.Venta.Venta.resources
+C:\Users\melan\OneDrive\Desktop\ProyectoU6_TallerBD\ProyectoU6_TallerBD\obj\Debug\ProyectoU6_TallerBD.csproj.GenerateResource.cache
+C:\Users\melan\OneDrive\Desktop\ProyectoU6_TallerBD\ProyectoU6_TallerBD\obj\Debug\ProyectoU6_TallerBD.csproj.CoreCompileInputs.cache
+C:\Users\melan\OneDrive\Desktop\ProyectoU6_TallerBD\ProyectoU6_TallerBD\obj\Debug\ProyectoU6_TallerBD.exe
+C:\Users\melan\OneDrive\Desktop\ProyectoU6_TallerBD\ProyectoU6_TallerBD\obj\Debug\ProyectoU6_TallerBD.pdb
